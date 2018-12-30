@@ -4,6 +4,7 @@ __author__ = 'MACvati'
 Notes:
 Make sure to consider count for the first digit (self.findDiff(N-1, K, i, current_number_list)
 Submission failed due to duplicate elements list(set(current_number_list))
+Need to read about DFS
 """
 
 class Solution(object):
